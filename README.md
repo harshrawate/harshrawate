@@ -72,7 +72,7 @@ const harsh = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
@@ -80,7 +80,7 @@ const harsh = {
 | **🕉️ Samgri** | Spiritual Marketplace & Priest Booking with JWT auth, Cloudinary & cart-to-payment | MERN | [💻 GitHub](#) |
 | **🤝 Adhyay** | Social Organization Platform with reusable React components & responsive design | React.js | [🔴 Live](#) |
 
-</div>
+</div> -->
 
 ---
 
