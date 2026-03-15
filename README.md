@@ -70,6 +70,20 @@ const harsh = {
 
 ---
 
+## 🚀 Deployment Experience
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=for-the-badge&logo=plesk&logoColor=white)
+![CloudPE](https://img.shields.io/badge/CloudPE-4A90D9?style=for-the-badge&logo=icloud&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
+
 ## 🚀 Featured Projects
 
 <!-- <div align="center">
