@@ -101,7 +101,7 @@ const harsh = {
 ## 💼 Experience
 
 ```
-🏢 Full Stack Developer       │ Idevify Solution Pvt. Ltd.     │ Apr 2025 – Present
+🏢 Full Stack Developer       │ Idevify Solution Pvt. Ltd.     │ Apr 2025 – Feb 2026
    ↳ E-pharmacy platform with role-based access (User / Admin / SuperAdmin)
    ↳ REST API development & scalable product listing platform
 
